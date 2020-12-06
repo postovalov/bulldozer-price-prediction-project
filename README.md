@@ -1,0 +1,1 @@
+Full overview and data at https://www.kaggle.com/c/bluebook-for-bulldozers.
